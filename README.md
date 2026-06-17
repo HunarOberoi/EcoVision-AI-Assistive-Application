@@ -46,9 +46,22 @@ EcoVision aims to provide an affordable and accessible solution by combining art
 - Computer Vision
 - Image Processing
 
-### Programming
-- Python
+### Mobile Application
+- Android Studio
+- Java/Kotlin
+- Android SDK
 
+### AI Backend
+- Python
+- YOLO Object Detection
+- OpenCV
+- Flask
+
+### AI Concepts
+- Computer Vision
+- Object Detection
+- Image Processing
+- Text-to-Speech Feedback
 ### Additional Tools
 - OpenCV
 - Text-to-Speech Libraries
