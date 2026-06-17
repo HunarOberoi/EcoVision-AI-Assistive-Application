@@ -100,7 +100,7 @@ LinkedIn: www.linkedin.com/in/hunaroberoi
 
 ---
 
-## ⭐ roject Highlights
+## Project Highlights
 
 - Developed an AI-based accessibility solution
 - Applied computer vision to solve a real-world problem
