@@ -1,4 +1,3 @@
-
 from flask import Flask, request, jsonify
 from ultralytics import YOLO
 from collections import Counter
